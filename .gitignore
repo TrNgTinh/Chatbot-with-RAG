@@ -1,0 +1,11 @@
+#Cache
+__pycache__/
+
+#Data
+data
+
+#token
+token.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
