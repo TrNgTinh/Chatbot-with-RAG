@@ -1,6 +1,6 @@
 # Question-3-Chatbot-Development
 
-This repository contains a sample solution for Question-3-Chatbot-Development.
+This repository contains a sample solution for Chatbot-Development Using RAG.
 
 ## Quickstart
 
@@ -11,6 +11,7 @@ This repository contains a sample solution for Question-3-Chatbot-Development.
     ```
 
 2. **Crawling Data:**
+
     ```bash
     python utils/crawl_data.py https://www.presight.io/privacy-policy.html data/output.md
     ```
