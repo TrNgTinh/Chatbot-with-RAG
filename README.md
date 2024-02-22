@@ -1,4 +1,4 @@
-# Question-3-Chatbot-Development
+# Chatbot-Development
 
 This repository contains a sample solution for Chatbot-Development Using RAG.
 
